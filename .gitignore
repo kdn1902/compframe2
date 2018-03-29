@@ -1,0 +1,4 @@
+/vendor
+/App/Views/cache
+*.clpprj
+*.csprj
